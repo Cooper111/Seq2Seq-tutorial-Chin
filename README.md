@@ -1,4 +1,4 @@
-#  Seq2Seq 神经网络学习教程
+#  Seq2Seq 神经网络学习笔记
 
 本文是对[教程](https://github.com/bentrevett/pytorch-seq2seq)的部分翻译，并加入了一些自己的理解和归纳（Edit by Kevin）
 <hr>
